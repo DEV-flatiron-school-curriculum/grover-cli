@@ -87,3 +87,4 @@ resources: 0
 ( ) mvdir
 
 ???
+<a href='https://learn.co/lessons/grover-cli' data-visibility='hidden'>Learn.co resource</a>
